@@ -16,7 +16,10 @@
 
 # Proyecto de Desarrollo de Aplicaciones Web (DAW)
 
-![Estudiante de DAW](./)
+<div style="text-align: center;">
+<img src="./estudiante_daw.webp" alt="estudiante de daw" width="600" height="500" />
+</div> 
+
 
 ### Descripción
 Este repositorio está dedicado a mi proceso de aprendizaje en el desarrollo de aplicaciones web, con especialización en el backend. Actualmente, me enfoco en tecnologías como **Java** y **MySQL** para construir soluciones robustas y eficientes.
